@@ -1,0 +1,58 @@
+.App{
+  background-color: #6c321c;
+  width: 80%;
+  height: 100%;
+  margin: 100px;
+font-family: sans-serif;
+font-size: 1.2rem;
+background-image: url(./img/img1.png) ;
+background-size: cover;
+
+
+}
+    .App-header{
+       margin: 10px;
+       color: rgb(224, 211, 202);
+       text-align: center;
+
+    }
+
+
+
+label{
+  margin: 10px;
+  color: #cfb2a7;
+
+}
+input{
+  margin: 10px;
+  border-radius: 5px;
+  padding: 2px;
+}
+#Elo{
+  padding: 4px;
+  font-size: 1.2rem;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.Envio{
+
+font-size: 1rem;
+margin: 10px auto;
+cursor: pointer;
+position: relative;
+left:90%;
+
+  
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+ 
+
+  
+  opacity:70%;
+}
